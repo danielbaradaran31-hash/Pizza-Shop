@@ -6,10 +6,15 @@ Dieses Projekt dient als Beispiel für eine To-Do-Liste, die das Hinzufügen und
 ⸻
 
 🚀 Hauptfunktionen (Features)
+
  • ✅ Hinzufügen und Anzeigen neuer Aufgaben
+ 
  • ❌ Entfernen vorhandener Aufgaben
+ 
  • 🎨 Stilvolle Buttons mit Hover-Effekten und Farbanimationen
+ 
  • ⚙️ Nutzung der DragOver- und DragDrop-Methoden, damit Benutzer ihre Bestellungen ziehen und in allen Listen verwalten können
+ 
  • 💡 Verwendung des leistungsstarken React-Hooks useState und der map-Methode für einen optimierten Datenfluss
 
 ⸻
