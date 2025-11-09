@@ -1,16 +1,20 @@
-# React + Vite
+🧩 Pizza Shop 😋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Das Projekt Todo-Pizza ist eine professionelle und moderne To-Do-Liste zur Verwaltung von Aufgaben, die ursprünglich in JavaScript entwickelt und später mit React umgesetzt wurde.
+Dieses Projekt dient als Beispiel für eine To-Do-Liste, die das Hinzufügen und Löschen von Benutzerbestellungen ermöglicht und ein effizientes State-Management-System für Webanwendungen unter Verwendung moderner Frontend-Technologien demonstriert.
 
-Currently, two official plugins are available:
+⸻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Hauptfunktionen (Features)
+ • ✅ Hinzufügen und Anzeigen neuer Aufgaben
+ • ❌ Entfernen vorhandener Aufgaben
+ • 🎨 Stilvolle Buttons mit Hover-Effekten und Farbanimationen
+ • ⚙️ Nutzung der DragOver- und DragDrop-Methoden, damit Benutzer ihre Bestellungen ziehen und in allen Listen verwalten können
+ • 💡 Verwendung des leistungsstarken React-Hooks useState und der map-Methode für einen optimierten Datenfluss
 
-## React Compiler
+⸻
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Verwendete Technologien (Tech Stack)
+ • ⚛️ React 19 – Moderne Benutzeroberflächenentwicklung
+ • 🎨 CSS / Styled Components – Modulares und wartbares Styling
+ • 🔧 React Router DOM – Routing und Navigation innerhalb der App
