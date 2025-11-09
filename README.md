@@ -15,6 +15,9 @@ Dieses Projekt dient als Beispiel für eine To-Do-Liste, die das Hinzufügen und
 ⸻
 
 🛠️ Verwendete Technologien (Tech Stack)
+
  • ⚛️ React 19 – Moderne Benutzeroberflächenentwicklung
+ 
  • 🎨 CSS / Styled Components – Modulares und wartbares Styling
+ 
  • 🔧 React Router DOM – Routing und Navigation innerhalb der App
